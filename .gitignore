@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+dados.json
+medicamentos.json
+*.egg-info/
+dist/
+build/
+.env
+.streamlit/secrets.toml
+supabase/.temp/
